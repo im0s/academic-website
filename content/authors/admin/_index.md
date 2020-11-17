@@ -14,11 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cognitive psychology, technology-enhanced learning (virtual reality), research methods and statistics.
 
 interests:
 - Cognitive Psychology
+- Technology-enhanced Learning
 - Virtual Reality
+- Research Methods
 - Data Analysis
 
 education:
@@ -66,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ivan Moser is a researcher at the Institute for Research in Open-, Distance- and eLearning (IFeL) of the Distance University of Applied Sciences (FFHS). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include cognitive psychology and technology-enhanced learning with a focus on virtual reality. He has contributed to various data-driven projects in both academia and the industry. Currently, he also teaches statistics and research methods in blended-learning courses at FFHS.
